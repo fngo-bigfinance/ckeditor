@@ -6,7 +6,6 @@
   "license": "SEE LICENSE IN LICENSE.md",
   "private": true,
   "devDependencies": {
-    "@ckeditor/ckeditor5-adapter-ckfinder": "^24.0.0",
     "@ckeditor/ckeditor5-autoformat": "^24.0.0",
     "@ckeditor/ckeditor5-basic-styles": "^24.0.0",
     "@ckeditor/ckeditor5-block-quote": "^24.0.0",
@@ -27,6 +26,7 @@
     "@ckeditor/ckeditor5-table": "^24.0.0",
     "@ckeditor/ckeditor5-theme-lark": "^24.0.0",
     "@ckeditor/ckeditor5-typing": "^24.0.0",
+    "@ckeditor/ckeditor5-upload": "^24.0.0",
     "css-loader": "^5.0.1",
     "postcss": "^8.2.1",
     "postcss-loader": "^4.1.0",
